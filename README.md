@@ -1,2 +1,3 @@
 # python-api-challenge
 Module 6
+For the python-api-challenge I used the starter code provided for both deliverables: WeatherPy and VacationPy. From there, I used class activities in writing the code. When I had trouble, I used google to find certain functions. I also used AskBCS to help me fix errors in the code. I also had a tutoring session with Nelson, and he also helped me make sure that the .gitignore file was working properly. My classmates are also a big help they guide me in the right direction by asking their questions, for example, about the citipy library, and getting them answered. 
